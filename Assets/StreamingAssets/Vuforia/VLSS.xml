@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="4emedroite" size="600.000000 283.333344" />
+    <ImageTarget name="Salle" size="600.000000 1270.588257" />
+    <ImageTarget name="droit" size="600.000000 720.000000" />
+    <ImageTarget name="Gauche" size="600.000000 1270.588257" />
+    <ImageTarget name="Bienvenue" size="600.000000 597.160461" />
+    <ImageTarget name="2eme" size="600.000000 1381.418335" />
+    <ImageTarget name="3etage" size="600.000000 1405.714233" />
+    <ImageTarget name="1bis" size="600.000000 1405.714233" />
+    <ImageTarget name="PUBB" size="600.000000 1433.078247" />
+    <ImageTarget name="GaragePub" size="600.000000 894.344849" />
+    <ImageTarget name="Audito" size="600.000000 441.515656" />
+    <ImageTarget name="RDC" size="600.000000 835.475281" />
+    <ImageTarget name="etages" size="600.000000 1050.208862" />
+    <ImageTarget name="detente" size="600.000000 440.151917" />
+    <ImageTarget name="3ee" size="600.000000 283.333344" />
+    <ImageTarget name="4e" size="600.000000 283.333344" />
+    <ImageTarget name="3e" size="600.000000 283.333344" />
+    <ImageTarget name="2e" size="600.000000 1430.097046" />
+    <ImageTarget name="1e" size="600.000000 283.333344" />
+    <ImageTarget name="1" size="600.000000 283.333344" />
+    <ImageTarget name="CVTECH" size="600.000000 848.488525" />
+    <ImageTarget name="HRCV" size="600.000000 848.488525" />
+    <ImageTarget name="BOA_Ida-Tan_Insti-Equity-Sales-1" size="600.000000 849.001831" />
+    <ImageTarget name="QRBleu2" size="600.000000 600.000000" />
+    <ImageTarget name="QRBleu" size="600.000000 600.000000" />
+    <ImageTarget name="QRed2" size="600.000000 600.000000" />
+    <ImageTarget name="QRed" size="600.000000 600.000000" />
+    <ImageTarget name="QRGreen" size="600.000000 461.860474" />
+    <ImageTarget name="84319331_183341996074587_7444651686729089024_n" size="600.000000 600.000000" />
+    <ImageTarget name="CVLahmarNellyCDImc2i" size="600.000000 848.488525" />
+    <ImageTarget name="CVNew1" size="600.000000 848.488525" />
+    <ImageTarget name="DianeClaireInternshipCV" size="600.000000 776.470581" />
+    <ImageTarget name="QRCode" size="800.000000 855.384644" />
+    <ImageTarget name="IMG_20200201_113129" size="800.000000 988.772949" />
+    <ImageTarget name="IMG_20200201_113123" size="600.000000 608.553955" />
+    <ImageTarget name="IMG_20200201_113118" size="800.000000 818.215637" />
+    <ImageTarget name="IMG_20200201_113055" size="800.000000 849.306641" />
+    <ImageTarget name="IMG_20200201_113049" size="600.000000 601.768188" />
+    <ImageTarget name="IMG_20200201_113044" size="600.000000 632.432434" />
+    <ImageTarget name="4" size="800.000000 671.878418" />
+    <ImageTarget name="3" size="600.000000 529.455017" />
+  </Tracking>
+</QCARConfig>

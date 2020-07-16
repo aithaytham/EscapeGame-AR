@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="taskforce" size="800.000000 450.000000" />
+    <ImageTarget name="wpid-nokia-logo2" size="406.000000 406.000000" />
+    <ImageTarget name="ardoise8cloud" size="800.000000 545.936584" />
+    <ImageTarget name="ardoise-programmation" size="800.000000 544.262268" />
+    <ImageTarget name="ardoise-shutterstock" size="800.000000 544.262268" />
+  </Tracking>
+</QCARConfig>
